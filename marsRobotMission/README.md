@@ -1,4 +1,4 @@
-# MarsRoverMission
+# MarsRobotMission
 
 Un proyecto PHP que simula un robot explorador que se mueve en una cuadrícula de 200x200. Sigue comandos dados por el usuario, detecta obstáculos y detiene su movimiento si encuentra uno o sale del área.
 
@@ -7,7 +7,7 @@ Un proyecto PHP que simula un robot explorador que se mueve en una cuadrícula d
 ##  Estructura basada en DDD + SOLID
 
 ```
-MarsRoverMission/
+MarsRobotMission/
 ├── index.php                        # Punto de entrada del programa
 ├── src/
 │   ├── Domain/                      # Lógica de dominio pura
